@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a third-year Computer Science student in Belgrade, Ser
 ## What You'll Find Here
 
 - 🖥️ Code: Various software projects, ranging from embedded systems to android apps
-[comment]: <> - 📝 Technical content: Articles, tutorials, problem-solving with practical applications.
+<!--- - 📝 Technical content: Articles, tutorials, problem-solving with practical applications.--->
 - 🤝 Collaboration: Open to connecting with developers across different domains.
 
 ## Connect with Me
