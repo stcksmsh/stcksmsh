@@ -1,13 +1,14 @@
 
+
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBtMnF4MTVqZWU2Zm9manV4bG5zcHZmYmxwam9semc4ejg4aWdpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ch7xUuFIoRcGoeA27N/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/kostavukicevic/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/@stcksmsh">
+   <!-- <a href="https://www.youtube.com/@stcksmsh">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
+    </a> -->
     <a href="https://twitter.com/stcksmsh">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -32,7 +33,7 @@ I am a Software Engineering Student<img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I am working on some projecs and drinking coffee :coffee:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kostavukicevic/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kosta_Vukicevic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kostavukicevic/)[![Gmail Badge](https://img.shields.io/badge/-stcksmsh@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](mailto:stcksmsh@gmail.com)
 
 ---
 
