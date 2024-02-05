@@ -28,7 +28,7 @@
 I am a Software Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro.
 - :school: I'm studying software engineering at the [University of Belgrade School of Electrical Engineering ](https://www.etf.bg.ac.rs/en)
 
-- :seedling: Exploring Technical Content Writing
+- :rocket: Embarking on a Journey of Exploring Software Architecture and Design
 
 - :zap: In my free time, I am working on some projecs and drinking coffee :coffee:
 
