@@ -56,7 +56,7 @@ I am a Software Engineering Student<img src="https://media.giphy.com/media/WUlpl
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stcksmsh&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stcksmsh&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stcksmsh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
