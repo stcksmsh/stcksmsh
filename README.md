@@ -56,7 +56,7 @@ I am a Software Engineering Student<img src="https://media.giphy.com/media/WUlpl
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=stcksmsh&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/stcksmsh?cardType=level&theme=tokyonight&preferLogin=true&Background=1A1B27&Text=36B1A4&Title=6EA2F8&Border=9C9CA0&Ring=6EA2F8)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stcksmsh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
