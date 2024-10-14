@@ -31,7 +31,7 @@ I am a Software Engineering Student<img src="https://media.giphy.com/media/WUlpl
 
 - :rocket: Embarking on a Journey of Exploring Software Architecture and Design
 
-- :zap: In my free time, I am working on some projecs and drinking coffee :coffee:
+- :zap: In my free time, I am working on some projects and drinking coffee :coffee:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kosta_Vukicevic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kostavukicevic/)[![Gmail Badge](https://img.shields.io/badge/-stcksmsh@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](mailto:stcksmsh@gmail.com)
 
