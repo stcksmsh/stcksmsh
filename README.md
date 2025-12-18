@@ -29,7 +29,7 @@
 I am a Software Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro.
 - :school: I'm studying software engineering at the [University of Belgrade School of Electrical Engineering ](https://www.etf.bg.ac.rs/en)
 
-- :office: Currently working as an **Android Software Engineer** at **Rivian**.
+- :office: Currently working as an **Android Software Engineer** at **Rivian Volkswagen Technologies**.
 
 - :zap: In my free time, I am working on some projects and drinking coffee :coffee:
 
